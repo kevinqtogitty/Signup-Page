@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+main {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    border: solid red;
+    overflow: hidden;
+}
+
+img {
+    width: 40%;
+    height: 100%;
+}
+
+form {
+    border: solid blue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+fieldset {
+    border: none;
+}
